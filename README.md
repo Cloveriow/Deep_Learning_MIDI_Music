@@ -57,8 +57,8 @@ with open(name+"_out.mid", "wb") as output_file:
  ```  
  同樣的你只需要修改讀取的檔案名稱,以及輸出的檔案名稱,變可以轉換成.mid<br>
  ## 試聽
- 專案中的mymusic.csv以及mymusic4_out.mid等等是我的訓練成果,您可以下載下來試聽
- 或著您可以在這裡試聽,但是他需要會員
+ 專案中的mymusic.csv以及mymusic4_out.mid等等是我的訓練成果,您可以下載下來試聽<br>
+ 或著您可以在這裡試聽,但是他需要會員<br>
  https://www.midishow.com/zh-tw/midi/161377.html<br>
  所以我在google drive也放了檔案<br>
  https://drive.google.com/drive/folders/1EZZ80QVb7_v4p8S9lH34LMTj63bFjjOr?usp=share_link<br>
